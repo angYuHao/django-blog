@@ -104,20 +104,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_introduction/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://C:/ProgramSoft/Python/Lib/site-packages/gunicorn/util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6248">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="152">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#320#329#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -445,12 +439,12 @@
       <option name="presentableId" value="Default" />
       <updated>1565245903916</updated>
       <workItem from="1585838241337" duration="8549000" />
-      <workItem from="1585846921732" duration="10286000" />
+      <workItem from="1585846921732" duration="10748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18835000" />
+    <option name="totallyTimeSpent" value="19297000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -696,17 +690,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_introduction/settings.py">
+    <entry file="file://C:/ProgramSoft/Python/Lib/site-packages/gunicorn/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="-6020">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramSoft/Python/Lib/site-packages/gunicorn/util.py">
+    <entry file="file://$PROJECT_DIR$/django_introduction/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6248">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="152">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#320#329#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
