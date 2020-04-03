@@ -18,7 +18,7 @@ django_heroku.settings(locals())
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
@@ -27,9 +27,9 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 SECRET_KEY = '**sw8js$b&tn-3f*3_dgl(6r8swle6fl++!05@^6vt)$exs^2)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['appintoduction.herokuapp.com']
+ALLOWED_HOSTS = ['https://djangointroduction.herokuapp.com']
 
 
 # Application definition
