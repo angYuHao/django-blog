@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 
 import os
 import django_heroku
+import gunicorn.util
 
 
 django_heroku.settings(locals())

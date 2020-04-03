@@ -1,1 +1,1 @@
-web: gunicorn wblog.wsgi --log-file -  
+web: gunicorn django_introduction.wsgi --log-file -  
